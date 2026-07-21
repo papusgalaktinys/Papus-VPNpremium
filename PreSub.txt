@@ -2,7 +2,7 @@
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #profile-web-page-url: https://t.me
-#announce: 🌐 PapusVPN\n⚡️ Скорость: Отличная\n❤️ Поддержка: https://t.me/+IdAN7XMavR8wMTUy
+#announce: 🌐 PapusVPN\n⚡️ Скорость: Отличная\n❤️ Поддержка: @papussupport
 vless://bdc00b0d-e5f5-4cde-8414-6eb7ab5af117@51.250.84.76:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=ios&sni=ads.x5.ru&pbk=Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls&sid=a374f536afccddfe#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 vless://ee791990-83c7-11f1-9ca5-1e6febe3e1df@89.208.229.243:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-direct&fp=firefox&sni=hh.ru&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=4b685844d0b4f724#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
 cloudflare.vhub.pro#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
