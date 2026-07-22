@@ -1,6 +1,6 @@
 #profile-title: PapusVPN
 #profile-update-interval: 24
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#subscription-user-info: upload=0; download=0; total=0; expire=1782517199
 #profile-web-page-url: https://t.me
 #announce: 🌐 PapusVPN\n⚡️ Скорость: Отличная\n❤️ Поддержка: @papussupport
 octopusss.net#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
@@ -16,7 +16,7 @@ vless://476708f2-0025-4493-9216-59b1e251c782@151.101.128.74:80?encryption=none&s
 www.nvidia.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
 eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster
-vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@81.90.21.67:443?encryption=none&fp=firefox&mode=multi&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&serviceName=grpc-api-v2&sid=635a76c25a4b1820&sni=www.amd.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@81.90.21.67:443?encryption=none&fp=firefox&mode=multi&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&serviceNameapi-v2&sid=635a76c25a4b1820&sni=www.amd.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&sid=52c723e0fad49689&sni=www.nvidia.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@31.56.188.123:443?flow=&type=grpc&mode=multi&serviceName=grpc-api-v2&security=reality&fp=firefox&sni=www.amd.com&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=raw&headertype=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
