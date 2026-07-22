@@ -1,7 +1,7 @@
 #profile-title: PapusVPN🌐
-#profile-update-interval: 1
-#subscription-user-info: upload=0; download=0; total=53687091200; expire=1782517199
-#profile-web-page-url: https://t.me/PapusVPNL
+#profile-update-interval: 24
+#subscription_userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+#profile-web-page-url: https://t.me
 #announce: 🌐 PapusVPN\n⚡️ Скорость: Отличная\n❤️ Поддержка: @papussupport
 octopusss.net#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=firefox&sni=octopusss.net&path=/odiyfws&host=octopusss.net#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
