@@ -1,4 +1,4 @@
-#profile-title: PapusVPN🌐
+#profile-title: PapusVPN
 #profile-update-interval: 24
 #subscription_userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 #profile-web-page-url: https://t.me
